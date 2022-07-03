@@ -125,9 +125,14 @@ nav ul li{
     .timestamp{
     margin: 1px 1px;
     }
-    .fa-3x {
-    font-size: 2em;
+  
+.icons{
+    height: 10px;
+    width:auto;
 }
+    #masterSongName{
+        opacity=0;
+    }
     .songInfo {
     left: -2vw;
     margin-top: 24px;
