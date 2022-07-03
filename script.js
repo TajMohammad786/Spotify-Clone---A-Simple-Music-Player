@@ -14,7 +14,7 @@ let songs = [
     {songName: "NCS - New release", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "NCS - Last play", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "NCS - My Life", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Ridjal Ahmed Recitation", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Rijdal Recitation", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "NCS - New Song", filePath: "songs/4.mp3", coverPath: "covers/3.jpg"},
     {songName: "NCS - 2018", filePath: "songs/3.mp3", coverPath: "covers/2.jpg"},
 ]
