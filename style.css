@@ -131,10 +131,10 @@ nav ul li{
     width:auto;
 }
     #masterSongName{
-        opacity=0;
+        opacity:0;
     }
     .songInfo {
-    left: -2vw;
+    left: 10vw;
     margin-top: 24px;
     margin-right: 15px;
 }
