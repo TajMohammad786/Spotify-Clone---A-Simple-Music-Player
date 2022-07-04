@@ -10,13 +10,13 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Best Hindi Song", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "NCS - New release", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "NCS - Last play", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "NCS - My Life", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Rijdal Recitation", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "NCS - New Song", filePath: "songs/4.mp3", coverPath: "covers/3.jpg"},
-    {songName: "NCS - 2018", filePath: "songs/3.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Best Song", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "NCS-Release", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "NCS-Last play", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "NCS-My Life", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Rijdal-Ahmed", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "NCS-New Song", filePath: "songs/4.mp3", coverPath: "covers/3.jpg"},
+    {songName: "NCS-2018", filePath: "songs/3.mp3", coverPath: "covers/2.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
