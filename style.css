@@ -126,10 +126,6 @@ nav ul li{
     margin: 1px 1px;
     }
   
-.icons{
-    height: 10px;
-    width:auto;
-}
     #masterSongName{
         opacity:0;
     }
@@ -137,5 +133,9 @@ nav ul li{
     left: 10vw;
     margin-top: 24px;
     margin-right: 15px;
+    }
+     .container{
+        min-height: 70vh;
+    }
 }
 }
